@@ -1,4 +1,4 @@
-<a href="https://github.com/dudynets/Programming-2022">
+<a href="https://get.lovecounter.pp.ua">
   <img align="right" src="https://lovecounter.pp.ua/assets/icons/logo.png" alt="Oleksandr Dudynets logo" width="128"/>
 </a>
 
